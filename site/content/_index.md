@@ -1,6 +1,6 @@
 ---
 title: rafael é um viadim
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Support sustasdsdsdsda cup
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Wsdsdsdsdsdsdi?
